@@ -30,7 +30,7 @@ Group Number:
 2(Chainsaw)
 
 Group Members:
-19101296 SadidIslam
-19101363 AliAsgarTamjid
-19101057 KawshikKumarGhosh
-20301422 EsabaAhnafIbrahim
+19101296 Sadid Islam
+19101363 Ali Asgar Tamjid
+19101057 Kawshik Kumar Ghosh
+20301422 Esaba Ahnaf Ibrahim
