@@ -25,7 +25,7 @@ Conference Name:
 Conference URL: http://www.nlpai.org/reg.html
 
 Conference URL:
-http://confsite/...
+http://www.nlpai.org/reg.html
 
 Group Number:
 2(Chainsaw)
