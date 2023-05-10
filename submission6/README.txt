@@ -15,13 +15,13 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1QFAFIl50tijXWC2W3_ji5itySbeXpnrHEf5VaH4gL9g/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-
+11th May,2023
 
 Paper submission ID: (received) from conference/workshop
 
 
-Conference Name:
-2023 4th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2023)
+Conference Name:2023 4th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2023)
+
 Conference URL: http://www.nlpai.org/reg.html
 
 Conference URL:
