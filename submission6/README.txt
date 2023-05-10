@@ -12,7 +12,7 @@ Multilingual SMS Text Classification for Spam and
 Ham Detection using Natural Language Processing
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1QFAFIl50tijXWC2W3_ji5itySbeXpnrHEf5VaH4gL9g/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
