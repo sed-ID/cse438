@@ -21,7 +21,8 @@ Paper submission ID: (received) from conference/workshop
 
 
 Conference Name:
-
+2023 4th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2023)
+Conference URL: http://www.nlpai.org/reg.html
 
 Conference URL:
 http://confsite/...
