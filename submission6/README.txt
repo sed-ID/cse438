@@ -7,11 +7,10 @@ Unlisted YouTube video:
 https://youtu.be/oxG2__BEvZE
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://edas.info/showPaper.php?m=1570913093
 
 Paper title:
-Multilingual SMS Text Classification for Spam and
-Ham Detection using Natural Language Processing
+Multilingual SMS Text Classification for Spam and Ham Detection using Natural Language Processing
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1QFAFIl50tijXWC2W3_ji5itySbeXpnrHEf5VaH4gL9g/edit?usp=sharing
