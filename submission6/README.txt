@@ -1,4 +1,4 @@
-Dataset is Private with permission of SEJ miss.Please email at sadid.islam@g.bracu.ac.bd for personal access
+Dataset is Private with permission of Sifat E Jahan ma'am.Please email at sadid.islam@g.bracu.ac.bd for personal access
 
 Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/4119415852dwjqqcvdgwxs
