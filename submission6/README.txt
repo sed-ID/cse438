@@ -18,7 +18,7 @@ https://docs.google.com/presentation/d/1QFAFIl50tijXWC2W3_ji5itySbeXpnrHEf5VaH4g
 Paper submission date (to workshop/conference):
 11th May,2023
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 1570913093
 
 
 Conference Name: Multilingual SMS Text Classification for Spam and Ham Detection using Natural Language Processing
