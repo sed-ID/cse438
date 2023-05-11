@@ -25,9 +25,6 @@ Conference Name: Multilingual SMS Text Classification for Spam and Ham Detection
 
 Conference URL: https://r10htc2023.org/
 
-Conference URL:
-https://r10htc2023.org/
-
 Group Number:
 2(Chainsaw)
 
