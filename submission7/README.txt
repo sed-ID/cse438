@@ -7,11 +7,10 @@ Unlisted YouTube video:
 https://youtu.be/oxG2__BEvZE
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://edas.info/showPaper.php?m=1570913093
 
 Paper title:
-Multilingual SMS Text Classification for Spam and
-Ham Detection using Natural Language Processing
+Multilingual SMS Text Classification for Spam and Ham Detection using Natural Language Processing
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1QFAFIl50tijXWC2W3_ji5itySbeXpnrHEf5VaH4gL9g/edit?usp=sharing
@@ -22,12 +21,12 @@ Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
 
 
-Conference Name:2023 4th International Conference on Natural Language Processing and Artificial Intelligence (NLPAI 2023)
+Conference Name: Multilingual SMS Text Classification for Spam and Ham Detection using Natural Language Processing
 
-Conference URL: http://www.nlpai.org/reg.html
+Conference URL: https://r10htc2023.org/
 
 Conference URL:
-http://www.nlpai.org/reg.html
+https://r10htc2023.org/
 
 Group Number:
 2(Chainsaw)
