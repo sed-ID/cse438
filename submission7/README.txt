@@ -3,6 +3,8 @@ Dataset is Private with permission of Sifat E Jahan ma'am.Please email at sadid.
 Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/4119415852dwjqqcvdgwxs
 
+Drive link: https://drive.google.com/drive/folders/1bzGoZsQe5-Ik0TIQWrYPCf8U4SnvABr2?usp=share_link
+
 Unlisted YouTube video:
 https://youtu.be/oxG2__BEvZE
 
